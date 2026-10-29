@@ -1,0 +1,37 @@
+{
+  "appid": "tt2d5d5be0b32324e702",
+  "projectname": "别惹我的刀",
+  "description": "转刀生存试玩版0.5.0",
+  "compileType": "game",
+  "setting": {
+    "es6": true
+  },
+  "packOptions": {
+    "ignore": [
+      {
+        "type": "folder",
+        "value": "__MACOSX"
+      },
+      {
+        "type": "folder",
+        "value": "tests"
+      },
+      {
+        "type": "folder",
+        "value": "tools"
+      },
+      {
+        "type": "folder",
+        "value": "别惹我的刀"
+      },
+      {
+        "type": "suffix",
+        "value": ".zip"
+      },
+      {
+        "type": "file",
+        "value": "index.html"
+      }
+    ]
+  }
+}
